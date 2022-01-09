@@ -4,3 +4,6 @@
 [submodule "openembedded"]
 	path = openembedded
 	url = git://git.openembedded.org/meta-openembedded
+[submodule "my-layers"]
+	path = my-layers
+	url = git@github.com:g-de-vals/yocto-my-layers.git
